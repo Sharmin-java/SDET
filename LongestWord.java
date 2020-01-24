@@ -10,13 +10,13 @@ public class LongestWord {
 	
 	public String getLongestWord(String paragraph) {
 		
-        String [] words = paragraph.split(" ");
-        String longestWord = "";
-        for(int i = 0; i < words.length; i++){
-        	if(words[i].length() >= longestWord.length()){
-        		longestWord = words[i];
-        	} 
-        }
-	return longestWord.length() + " and " + longestWord;
+        	String [] words = paragraph.split(" ");
+        	String longestWord = "";
+       	 	for(int i = 0; i < words.length; i++){
+        		if(words[i].length() >= longestWord.length()){
+        			longestWord = words[i];
+        		} 
+        	}
+		return longestWord.length() + " and " + longestWord;
 	}
-}
+}//end class 
