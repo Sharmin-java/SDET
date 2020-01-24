@@ -14,6 +14,6 @@ Java - JDK 10
 
 JUnit Framework for Unit Tests
 
-To run this project , create a java project in eclipse and close the source file.
+To run this project , create a java project in eclipse and clone the source file.
 
-To run the test file , create a JUnit Class in the project and run a JUnit test.
+To run the test file , create a JUnit Class in the project and run as JUnit test.
