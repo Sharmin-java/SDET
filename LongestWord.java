@@ -5,7 +5,7 @@ public class LongestWord {
 	 * 		paragraph 
 	 * Assumptions -
 	 * 		1.There is distinct longest word in the parameter
-	 * 		2.There is not punctuation mark in the parameter
+	 * 		2.There is no punctuation mark in the parameter
 	 */
 	
 	public String getLongestWord(String paragraph) {
