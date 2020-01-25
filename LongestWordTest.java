@@ -1,4 +1,5 @@
-
+package com.test;
+import com.main.LongestWord;
 import org.junit.Assert;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
