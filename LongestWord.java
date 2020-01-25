@@ -1,3 +1,4 @@
+package com.main;
 public class LongestWord {
 	/**
 	 * Finds the largest word and returns length/largest word
